@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tema1Android</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="firstFragment">Press to continue in A2</string>
+    <string name="secondFragment">Press to continue in F2A2</string>
+    <string name="firstButton">Replace F2A2 with F3A2</string>
+    <string name="secondButton">Remove F1A2</string>
+    <string name="thirdButton">Close the activity</string>
+
+</resources>
